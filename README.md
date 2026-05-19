@@ -98,7 +98,11 @@
 ---
 
 ## 🤝 Connect with Me
+[
 
+![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)
+
+](https://github.com/neetesh-rajpoot-18/My-Resume/raw/main/Neetesh_Resume_18.pdf)
 <p align="left">
   <a href="https://linkedin.com/in/neetesh-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
